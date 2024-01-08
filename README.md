@@ -5,7 +5,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 [Kentucky-FG Made](#Kentucky-FG-Made) | [Kentucky-FG Attempted](#Kentucky-FG-Attempted) | [Kentucky-FG PCT](#Kentucky-FG-PCT) | [Kentucky-3PT Made](#Kentucky-3PT-Made) | [Kentucky-3PT Attempted](#Kentucky-3PT-Attempted) | [Kentucky-3PT PCT](#Kentucky-3PT-PCT) | [Kentucky-Total Pts Made](#Kentucky-Total-Pts-Made) | [Kentucky-Off. Rebounds](#Kentucky-Off.-Rebounds) | [Kentucky-Def. Rebounds](#Kentucky-Def.-Rebounds) | [Kentucky-Steals](#Kentucky-Steals) | [Kentucky-Blocks](#Kentucky-Blocks) | [Kentucky-Turnovers](#Kentucky-Turnovers) | [Kentucky-FT Made](#Kentucky-FT-Made) | [Kentucky-FT Attempted](#Kentucky-FT-Attempted) | [Kentucky-FT PCT](#Kentucky-FT-PCT) | [Opponent-FG Made](#Opponent-FG-Made) | [Opponent-FG Attempted](#Opponent-FG-Attempted) | [Opponent-FG PCT](#Opponent-FG-PCT) | [Opponent-3PT Made](#Opponent-3PT-Made) | [Opponent-3PT Attempted](#Opponent-3PT-Attempted) | [Opponent-3PT PCT](#Opponent-3PT-PCT) | [Opponent-Total Pts Made](#Opponent-Total-Pts-Made) | [Opponent-Off. Rebounds](#Opponent-Off.-Rebounds) | [Opponent-Def. Rebounds](#Opponent-Def.-Rebounds) | [Opponent-Steals](#Opponent-Steals) | [Opponent-Blocks](#Opponent-Blocks) | [Opponent-Turnovers](#Opponent-Turnovers) | [Opponent-FT Made](#Opponent-FT-Made) | [Opponent-FT Attempted](#Opponent-FT-Attempted) | [Opponent-FT PCT](#Opponent-FT-PCT)
 -------------------------------
 
-# Kentucky-FG Made #
+# Kentucky-FG-Made #
 **Average: 27.46**
 **Median: 27**
 1. **2024** - Kentucky-FG Made: 33.3 (2024 Natl. Rank: 2nd)
@@ -25,7 +25,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2021** - Kentucky-FG Made: 24.6 (2021 Natl. Rank: 238th)
 -------------------------------
 
-# Kentucky-FG Attempted #
+# Kentucky-FG-Attempted #
 **Average: 58.48**
 **Median: 57.4**
 1. **2024** - Kentucky-FG Attempted: 66.8 (2024 Natl. Rank: 7th)
@@ -45,7 +45,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2013** - Kentucky-FG Attempted: 55 (2013 Natl. Rank: 173rd)
 -------------------------------
 
-# Kentucky-FG PCT #
+# Kentucky-FG-PCT #
 **Average: 0.4690666666666666666666666667**
 **Median: 0.473**
 1. **2024** - Kentucky-FG PCT: 0.499 (2024 Natl. Rank: 14th)
@@ -65,7 +65,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2021** - Kentucky-FG PCT: 0.417 (2021 Natl. Rank: 284th)
 -------------------------------
 
-# Kentucky-3PT Made #
+# Kentucky-3PT-Made #
 **Average: 6.2666666666666666666666666667**
 **Median: 6.1**
 1. **2024** - Kentucky-3PT Made: 10.2 (2024 Natl. Rank: 15th)
@@ -85,7 +85,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2020** - Kentucky-3PT Made: 5.1 (2020 Natl. Rank: 339th)
 -------------------------------
 
-# Kentucky-3PT Attempted #
+# Kentucky-3PT-Attempted #
 **Average: 17.473333333333333333333333333**
 **Median: 17.5**
 1. **2024** - Kentucky-3PT Attempted: 25 (2024 Natl. Rank: 73rd)
@@ -105,7 +105,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2018** - Kentucky-3PT Attempted: 14.8 (2018 Natl. Rank: 346th)
 -------------------------------
 
-# Kentucky-3PT PCT #
+# Kentucky-3PT-PCT #
 **Average: 0.3560666666666666666666666667**
 **Median: 0.349**
 1. **2024** - Kentucky-3PT PCT: 0.406 (2024 Natl. Rank: 5th)
@@ -125,7 +125,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2010** - Kentucky-3PT PCT: 0.331 (2010 Natl. Rank: 227th)
 -------------------------------
 
-# Kentucky-Total Pts Made #
+# Kentucky-Total-Pts-Made #
 **Average: 77.326666666666666666666666667**
 **Median: 75.8**
 1. **2024** - Kentucky-Total Pts Made: 90.8 (2024 Natl. Rank: 3rd)
@@ -145,7 +145,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2021** - Kentucky-Total Pts Made: 70.4 (2021 Natl. Rank: 197th)
 -------------------------------
 
-# Kentucky-Off. Rebounds #
+# Kentucky-Off.-Rebounds #
 **Average: 12.193333333333333333333333333**
 **Median: 12**
 1. **2010** - Kentucky-Off. Rebounds: 14.2 (2010 Natl. Rank: 21st)
@@ -165,7 +165,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2020** - Kentucky-Off. Rebounds: 9.7 (2020 Natl. Rank: 200th)
 -------------------------------
 
-# Kentucky-Def. Rebounds #
+# Kentucky-Def.-Rebounds #
 **Average: 26.286666666666666666666666667**
 **Median: 26.1**
 1. **2024** - Kentucky-Def. Rebounds: 28.6 (2024 Natl. Rank: 32nd)
@@ -245,7 +245,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2024** - Kentucky-Turnovers: 9.4 (2024 Natl. Rank: 349th)
 -------------------------------
 
-# Kentucky-FT Made #
+# Kentucky-FT-Made #
 **Average: 16.16**
 **Median: 17**
 1. **2014** - Kentucky-FT Made: 19.5 (2014 Natl. Rank: 15th)
@@ -265,7 +265,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2022** - Kentucky-FT Made: 12.8 (2022 Natl. Rank: 150th)
 -------------------------------
 
-# Kentucky-FT Attempted #
+# Kentucky-FT-Attempted #
 **Average: 22.76**
 **Median: 22.9**
 1. **2014** - Kentucky-FT Attempted: 28.7 (2014 Natl. Rank: 8th)
@@ -285,7 +285,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2022** - Kentucky-FT Attempted: 17.6 (2022 Natl. Rank: 168th)
 -------------------------------
 
-# Kentucky-FT PCT #
+# Kentucky-FT-PCT #
 **Average: 0.7116**
 **Median: 0.71**
 1. **2020** - Kentucky-FT PCT: 0.797 (2020 Natl. Rank: 2nd)
@@ -305,7 +305,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 15. **2013** - Kentucky-FT PCT: 0.642 (2013 Natl. Rank: 315th)
 -------------------------------
 
-# Opponent-FG Made #
+# Opponent-FG-Made #
 **Average: 23.578571428571428571428571429**
 **Median: 23.2**
 1. **2024** - Opponent-FG Made: 26.2 (2024 Natl. Rank: 232nd)
@@ -324,7 +324,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2015** - Opponent-FG Made: 19.2 (2015 Natl. Rank: 5th)
 -------------------------------
 
-# Opponent-FG Attempted #
+# Opponent-FG-Attempted #
 **Average: 59.007142857142857142857142857**
 **Median: 59.15**
 1. **2024** - Opponent-FG Attempted: 63.3 (2024 Natl. Rank: 319th)
@@ -343,7 +343,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2015** - Opponent-FG Attempted: 54.3 (2015 Natl. Rank: 185th)
 -------------------------------
 
-# Opponent-FG PCT #
+# Opponent-FG-PCT #
 **Average: 0.3994285714285714285714285714**
 **Median: 0.4005**
 1. **2023** - Opponent-FG PCT: 0.429 (2023 Natl. Rank: 125th)
@@ -362,7 +362,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2015** - Opponent-FG PCT: 0.354 (2015 Natl. Rank: 1st)
 -------------------------------
 
-# Opponent-3PT Made #
+# Opponent-3PT-Made #
 **Average: 6.2571428571428571428571428571**
 **Median: 6.3**
 1. **2024** - Opponent-3PT Made: 8.5 (2024 Natl. Rank: 311th)
@@ -381,7 +381,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2015** - Opponent-3PT Made: 4.5 (2015 Natl. Rank: 7th)
 -------------------------------
 
-# Opponent-3PT Attempted #
+# Opponent-3PT-Attempted #
 **Average: 20.05**
 **Median: 20.15**
 1. **2024** - Opponent-3PT Attempted: 27.3 (2024 Natl. Rank: 345th)
@@ -400,7 +400,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2015** - Opponent-3PT Attempted: 16.6 (2015 Natl. Rank: 73rd)
 -------------------------------
 
-# Opponent-3PT PCT #
+# Opponent-3PT-PCT #
 **Average: 0.3118571428571428571428571429**
 **Median: 0.3125**
 1. **2016** - Opponent-3PT PCT: 0.326 (2016 Natl. Rank: 76th)
@@ -419,7 +419,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2015** - Opponent-3PT PCT: 0.271 (2015 Natl. Rank: 3rd)
 -------------------------------
 
-# Opponent-Total Pts Made #
+# Opponent-Total-Pts-Made #
 **Average: 66.371428571428571428571428571**
 **Median: 66.6**
 1. **2024** - Opponent-Total Pts Made: 74.3 (2024 Natl. Rank: 260th)
@@ -438,7 +438,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2015** - Opponent-Total Pts Made: 54.3 (2015 Natl. Rank: 3rd)
 -------------------------------
 
-# Opponent-Off. Rebounds #
+# Opponent-Off.-Rebounds #
 **Average: 11.114285714285714285714285714**
 **Median: 11.35**
 1. **2010** - Opponent-Off. Rebounds: 12.8 (2010 Natl. Rank: 293rd)
@@ -457,7 +457,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2023** - Opponent-Off. Rebounds: 8.5 (2023 Natl. Rank: 51st)
 -------------------------------
 
-# Opponent-Def. Rebounds #
+# Opponent-Def.-Rebounds #
 **Average: 21.978571428571428571428571429**
 **Median: 21.6**
 1. **2024** - Opponent-Def. Rebounds: 26.1 (2024 Natl. Rank: 268th)
@@ -533,7 +533,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2014** - Opponent-Turnovers: 10.7 (2014 Natl. Rank: 44th)
 -------------------------------
 
-# Opponent-FT Made #
+# Opponent-FT-Made #
 **Average: 12.957142857142857142857142857**
 **Median: 12.85**
 1. **2016** - Opponent-FT Made: 16.6 (2016 Natl. Rank: 291st)
@@ -552,7 +552,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2012** - Opponent-FT Made: 10.7 (2012 Natl. Rank: 18th)
 -------------------------------
 
-# Opponent-FT Attempted #
+# Opponent-FT-Attempted #
 **Average: 18.478571428571428571428571429**
 **Median: 18.05**
 1. **2016** - Opponent-FT Attempted: 23.6 (2016 Natl. Rank: 286th)
@@ -571,7 +571,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 14. **2022** - Opponent-FT Attempted: 15.1 (2022 Natl. Rank: 73rd)
 -------------------------------
 
-# Opponent-FT PCT #
+# Opponent-FT-PCT #
 **Average: 0.7016428571428571428571428571**
 **Median: 0.693**
 1. **2023** - Opponent-FT PCT: 0.744 (2023 Natl. Rank: 318th)
