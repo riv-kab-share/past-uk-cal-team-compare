@@ -1,14 +1,14 @@
 # Context #
 All rankings below aggregated via [Sports Reference](https://www.sports-reference.com/cbb/schools/kentucky/men). Statistics are averaged by game for the season (or as of last publish date for 2024). 
- Last Publish Date: **Monday, January 1, 2024** 
+ Last Publish Date: **Sunday, January 7, 2024** 
 -------------------------------
 [Kentucky-FG Made](#Kentucky-FG-Made) | [Kentucky-FG Attempted](#Kentucky-FG-Attempted) | [Kentucky-FG PCT](#Kentucky-FG-PCT) | [Kentucky-3PT Made](#Kentucky-3PT-Made) | [Kentucky-3PT Attempted](#Kentucky-3PT-Attempted) | [Kentucky-3PT PCT](#Kentucky-3PT-PCT) | [Kentucky-Total Pts Made](#Kentucky-Total-Pts-Made) | [Kentucky-Off. Rebounds](#Kentucky-Off.-Rebounds) | [Kentucky-Def. Rebounds](#Kentucky-Def.-Rebounds) | [Kentucky-Steals](#Kentucky-Steals) | [Kentucky-Blocks](#Kentucky-Blocks) | [Kentucky-Turnovers](#Kentucky-Turnovers) | [Kentucky-FT Made](#Kentucky-FT-Made) | [Kentucky-FT Attempted](#Kentucky-FT-Attempted) | [Kentucky-FT PCT](#Kentucky-FT-PCT) | [Opponent-FG Made](#Opponent-FG-Made) | [Opponent-FG Attempted](#Opponent-FG-Attempted) | [Opponent-FG PCT](#Opponent-FG-PCT) | [Opponent-3PT Made](#Opponent-3PT-Made) | [Opponent-3PT Attempted](#Opponent-3PT-Attempted) | [Opponent-3PT PCT](#Opponent-3PT-PCT) | [Opponent-Total Pts Made](#Opponent-Total-Pts-Made) | [Opponent-Off. Rebounds](#Opponent-Off.-Rebounds) | [Opponent-Def. Rebounds](#Opponent-Def.-Rebounds) | [Opponent-Steals](#Opponent-Steals) | [Opponent-Blocks](#Opponent-Blocks) | [Opponent-Turnovers](#Opponent-Turnovers) | [Opponent-FT Made](#Opponent-FT-Made) | [Opponent-FT Attempted](#Opponent-FT-Attempted) | [Opponent-FT PCT](#Opponent-FT-PCT)
 -------------------------------
 
 # Kentucky-FG Made #
-**Average: 27.61875**
+**Average: 27.60625**
 **Median: 27.15**
-1. **2024** - Kentucky-FG Made: 33.5
+1. **2024** - Kentucky-FG Made: 33.3
 2. **2022** - Kentucky-FG Made: 30.3
 3. **2017** - Kentucky-FG Made: 29.8
 4. **2017** - Kentucky-FG Made: 29.8
@@ -27,9 +27,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-FG Attempted #
-**Average: 58.7625**
+**Average: 58.76875**
 **Median: 58.0**
-1. **2024** - Kentucky-FG Attempted: 66.7
+1. **2024** - Kentucky-FG Attempted: 66.8
 2. **2017** - Kentucky-FG Attempted: 63.1
 3. **2017** - Kentucky-FG Attempted: 63.1
 4. **2022** - Kentucky-FG Attempted: 62.7
@@ -48,9 +48,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-FG PCT #
-**Average: 0.4695625**
+**Average: 0.4693125**
 **Median: 0.473**
-1. **2024** - Kentucky-FG PCT: 0.503
+1. **2024** - Kentucky-FG PCT: 0.499
 2. **2012** - Kentucky-FG PCT: 0.488
 3. **2022** - Kentucky-FG PCT: 0.483
 4. **2010** - Kentucky-FG PCT: 0.478
@@ -69,9 +69,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-3PT Made #
-**Average: 6.3375**
+**Average: 6.3125**
 **Median: 6.1**
-1. **2024** - Kentucky-3PT Made: 10.6
+1. **2024** - Kentucky-3PT Made: 10.2
 2. **2011** - Kentucky-3PT Made: 7.4
 3. **2017** - Kentucky-3PT Made: 7
 4. **2017** - Kentucky-3PT Made: 7
@@ -90,9 +90,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-3PT Attempted #
-**Average: 17.65**
+**Average: 17.625**
 **Median: 17.75**
-1. **2024** - Kentucky-3PT Attempted: 25.4
+1. **2024** - Kentucky-3PT Attempted: 25
 2. **2017** - Kentucky-3PT Attempted: 19.9
 3. **2017** - Kentucky-3PT Attempted: 19.9
 4. **2021** - Kentucky-3PT Attempted: 19.1
@@ -111,9 +111,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-3PT PCT #
-**Average: 0.3565**
+**Average: 0.355875**
 **Median: 0.351**
-1. **2024** - Kentucky-3PT PCT: 0.416
+1. **2024** - Kentucky-3PT PCT: 0.406
 2. **2011** - Kentucky-3PT PCT: 0.397
 3. **2012** - Kentucky-3PT PCT: 0.378
 4. **2016** - Kentucky-3PT PCT: 0.366
@@ -132,9 +132,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-Total Pts Made #
-**Average: 77.81875**
+**Average: 77.8**
 **Median: 76.3**
-1. **2024** - Kentucky-Total Pts Made: 91.1
+1. **2024** - Kentucky-Total Pts Made: 90.8
 2. **2017** - Kentucky-Total Pts Made: 84.9
 3. **2017** - Kentucky-Total Pts Made: 84.9
 4. **2016** - Kentucky-Total Pts Made: 79.5
@@ -153,7 +153,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-Off. Rebounds #
-**Average: 12.2125**
+**Average: 12.20625**
 **Median: 12.2**
 1. **2010** - Kentucky-Off. Rebounds: 14.2
 2. **2014** - Kentucky-Off. Rebounds: 14.1
@@ -169,14 +169,14 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 12. **2011** - Kentucky-Off. Rebounds: 11.7
 13. **2019** - Kentucky-Off. Rebounds: 11.5
 14. **2013** - Kentucky-Off. Rebounds: 11.5
-15. **2024** - Kentucky-Off. Rebounds: 9.9
+15. **2024** - Kentucky-Off. Rebounds: 9.8
 16. **2020** - Kentucky-Off. Rebounds: 9.7
 -------------------------------
 
 # Kentucky-Def. Rebounds #
-**Average: 26.3375**
+**Average: 26.35625**
 **Median: 26.45**
-1. **2024** - Kentucky-Def. Rebounds: 28.3
+1. **2024** - Kentucky-Def. Rebounds: 28.6
 2. **2010** - Kentucky-Def. Rebounds: 27.5
 3. **2017** - Kentucky-Def. Rebounds: 27.4
 4. **2017** - Kentucky-Def. Rebounds: 27.4
@@ -195,9 +195,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-Steals #
-**Average: 6.16875**
+**Average: 6.15625**
 **Median: 6**
-1. **2024** - Kentucky-Steals: 9
+1. **2024** - Kentucky-Steals: 8.8
 2. **2010** - Kentucky-Steals: 7.3
 3. **2022** - Kentucky-Steals: 6.8
 4. **2015** - Kentucky-Steals: 6.5
@@ -216,8 +216,8 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-Blocks #
-**Average: 5.75**
-**Median: 5.8**
+**Average: 5.73125**
+**Median: 5.65**
 1. **2012** - Kentucky-Blocks: 8.6
 2. **2010** - Kentucky-Blocks: 7.2
 3. **2015** - Kentucky-Blocks: 6.9
@@ -225,8 +225,8 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 5. **2011** - Kentucky-Blocks: 6.3
 6. **2014** - Kentucky-Blocks: 5.9
 7. **2021** - Kentucky-Blocks: 5.9
-8. **2024** - Kentucky-Blocks: 5.8
-9. **2016** - Kentucky-Blocks: 5.8
+8. **2016** - Kentucky-Blocks: 5.8
+9. **2024** - Kentucky-Blocks: 5.5
 10. **2017** - Kentucky-Blocks: 5.3
 11. **2017** - Kentucky-Blocks: 5.3
 12. **2020** - Kentucky-Blocks: 4.9
@@ -258,7 +258,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Kentucky-FT Made #
-**Average: 16.25625**
+**Average: 16.2875**
 **Median: 17.05**
 1. **2014** - Kentucky-FT Made: 19.5
 2. **2017** - Kentucky-FT Made: 18.2
@@ -273,13 +273,13 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 11. **2021** - Kentucky-FT Made: 14.8
 12. **2011** - Kentucky-FT Made: 14.7
 13. **2013** - Kentucky-FT Made: 14.7
-14. **2023** - Kentucky-FT Made: 13.6
-15. **2024** - Kentucky-FT Made: 13.5
+14. **2024** - Kentucky-FT Made: 14
+15. **2023** - Kentucky-FT Made: 13.6
 16. **2022** - Kentucky-FT Made: 12.8
 -------------------------------
 
 # Kentucky-FT Attempted #
-**Average: 22.9**
+**Average: 22.95**
 **Median: 23.05**
 1. **2014** - Kentucky-FT Attempted: 28.7
 2. **2017** - Kentucky-FT Attempted: 25.8
@@ -295,16 +295,16 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 12. **2011** - Kentucky-FT Attempted: 20.8
 13. **2021** - Kentucky-FT Attempted: 20.4
 14. **2023** - Kentucky-FT Attempted: 19.2
-15. **2024** - Kentucky-FT Attempted: 18.3
+15. **2024** - Kentucky-FT Attempted: 19.1
 16. **2022** - Kentucky-FT Attempted: 17.6
 -------------------------------
 
 # Kentucky-FT PCT #
-**Average: 0.71125**
+**Average: 0.711125**
 **Median: 0.708**
 1. **2020** - Kentucky-FT PCT: 0.797
 2. **2019** - Kentucky-FT PCT: 0.739
-3. **2024** - Kentucky-FT PCT: 0.736
+3. **2024** - Kentucky-FT PCT: 0.734
 4. **2021** - Kentucky-FT PCT: 0.729
 5. **2015** - Kentucky-FT PCT: 0.726
 6. **2022** - Kentucky-FT PCT: 0.726
@@ -321,9 +321,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-FG Made #
-**Average: 23.675**
+**Average: 23.6875**
 **Median: 23.2**
-1. **2024** - Opponent-FG Made: 26
+1. **2024** - Opponent-FG Made: 26.2
 2. **2017** - Opponent-FG Made: 25.8
 3. **2017** - Opponent-FG Made: 25.8
 4. **2021** - Opponent-FG Made: 25.1
@@ -342,9 +342,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-FG Attempted #
-**Average: 59.0125**
+**Average: 59.0375**
 **Median: 59.15**
-1. **2024** - Opponent-FG Attempted: 62.9
+1. **2024** - Opponent-FG Attempted: 63.3
 2. **2010** - Opponent-FG Attempted: 60.9
 3. **2017** - Opponent-FG Attempted: 60.8
 4. **2021** - Opponent-FG Attempted: 60.8
@@ -363,14 +363,14 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-FG PCT #
-**Average: 0.4009375**
+**Average: 0.401**
 **Median: 0.402**
 1. **2023** - Opponent-FG PCT: 0.429
 2. **2017** - Opponent-FG PCT: 0.424
 3. **2017** - Opponent-FG PCT: 0.424
 4. **2022** - Opponent-FG PCT: 0.414
-5. **2021** - Opponent-FG PCT: 0.413
-6. **2024** - Opponent-FG PCT: 0.413
+5. **2024** - Opponent-FG PCT: 0.414
+6. **2021** - Opponent-FG PCT: 0.413
 7. **2014** - Opponent-FG PCT: 0.411
 8. **2018** - Opponent-FG PCT: 0.404
 9. **2019** - Opponent-FG PCT: 0.4
@@ -384,9 +384,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-3PT Made #
-**Average: 6.33125**
+**Average: 6.3375**
 **Median: 6.3**
-1. **2024** - Opponent-3PT Made: 8.4
+1. **2024** - Opponent-3PT Made: 8.5
 2. **2018** - Opponent-3PT Made: 7.8
 3. **2019** - Opponent-3PT Made: 7.6
 4. **2020** - Opponent-3PT Made: 6.9
@@ -405,9 +405,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-3PT Attempted #
-**Average: 20.18125**
+**Average: 20.2**
 **Median: 20.2**
-1. **2024** - Opponent-3PT Attempted: 27
+1. **2024** - Opponent-3PT Attempted: 27.3
 2. **2018** - Opponent-3PT Attempted: 25.8
 3. **2020** - Opponent-3PT Attempted: 22.5
 4. **2019** - Opponent-3PT Attempted: 22.3
@@ -426,7 +426,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-3PT PCT #
-**Average: 0.3135625**
+**Average: 0.3134375**
 **Median: 0.3125**
 1. **2019** - Opponent-3PT PCT: 0.343
 2. **2016** - Opponent-3PT PCT: 0.326
@@ -437,7 +437,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 7. **2012** - Opponent-3PT PCT: 0.318
 8. **2010** - Opponent-3PT PCT: 0.313
 9. **2021** - Opponent-3PT PCT: 0.312
-10. **2024** - Opponent-3PT PCT: 0.312
+10. **2024** - Opponent-3PT PCT: 0.31
 11. **2022** - Opponent-3PT PCT: 0.308
 12. **2020** - Opponent-3PT PCT: 0.307
 13. **2017** - Opponent-3PT PCT: 0.306
@@ -447,9 +447,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-Total Pts Made #
-**Average: 66.53125**
+**Average: 66.5875**
 **Median: 66.6**
-1. **2024** - Opponent-Total Pts Made: 73.4
+1. **2024** - Opponent-Total Pts Made: 74.3
 2. **2017** - Opponent-Total Pts Made: 71.5
 3. **2017** - Opponent-Total Pts Made: 71.5
 4. **2021** - Opponent-Total Pts Made: 70.2
@@ -489,9 +489,9 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-Def. Rebounds #
-**Average: 22.0125**
+**Average: 22.04375**
 **Median: 21.6**
-1. **2024** - Opponent-Def. Rebounds: 25.6
+1. **2024** - Opponent-Def. Rebounds: 26.1
 2. **2017** - Opponent-Def. Rebounds: 24.8
 3. **2021** - Opponent-Def. Rebounds: 24.8
 4. **2017** - Opponent-Def. Rebounds: 24.8
@@ -510,8 +510,8 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-Steals #
-**Average: 5.50625**
-**Median: 5.6**
+**Average: 5.51875**
+**Median: 5.65**
 1. **2010** - Opponent-Steals: 6.9
 2. **2021** - Opponent-Steals: 6.2
 3. **2022** - Opponent-Steals: 6
@@ -520,8 +520,8 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 6. **2014** - Opponent-Steals: 5.8
 7. **2019** - Opponent-Steals: 5.8
 8. **2018** - Opponent-Steals: 5.7
-9. **2012** - Opponent-Steals: 5.5
-10. **2024** - Opponent-Steals: 5.4
+9. **2024** - Opponent-Steals: 5.6
+10. **2012** - Opponent-Steals: 5.5
 11. **2011** - Opponent-Steals: 5.3
 12. **2020** - Opponent-Steals: 5
 13. **2017** - Opponent-Steals: 4.8
@@ -552,12 +552,12 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-Turnovers #
-**Average: 12.5375**
+**Average: 12.51875**
 **Median: 12.1**
 1. **2017** - Opponent-Turnovers: 14.3
 2. **2017** - Opponent-Turnovers: 14.3
-3. **2024** - Opponent-Turnovers: 14.2
-4. **2010** - Opponent-Turnovers: 14
+3. **2010** - Opponent-Turnovers: 14
+4. **2024** - Opponent-Turnovers: 13.9
 5. **2015** - Opponent-Turnovers: 13.7
 6. **2021** - Opponent-Turnovers: 12.7
 7. **2022** - Opponent-Turnovers: 12.2
@@ -573,7 +573,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-FT Made #
-**Average: 12.85625**
+**Average: 12.88125**
 **Median: 12.85**
 1. **2016** - Opponent-FT Made: 16.6
 2. **2014** - Opponent-FT Made: 14.4
@@ -581,7 +581,7 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 4. **2017** - Opponent-FT Made: 13.8
 5. **2018** - Opponent-FT Made: 13.6
 6. **2021** - Opponent-FT Made: 13.4
-7. **2024** - Opponent-FT Made: 13
+7. **2024** - Opponent-FT Made: 13.4
 8. **2020** - Opponent-FT Made: 12.9
 9. **2013** - Opponent-FT Made: 12.8
 10. **2023** - Opponent-FT Made: 12.6
@@ -594,15 +594,15 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-FT Attempted #
-**Average: 18.36875**
+**Average: 18.4125**
 **Median: 18.05**
 1. **2016** - Opponent-FT Attempted: 23.6
 2. **2014** - Opponent-FT Attempted: 20.9
 3. **2017** - Opponent-FT Attempted: 20.4
 4. **2017** - Opponent-FT Attempted: 20.4
 5. **2018** - Opponent-FT Attempted: 19.6
-6. **2020** - Opponent-FT Attempted: 18.8
-7. **2024** - Opponent-FT Attempted: 18.8
+6. **2024** - Opponent-FT Attempted: 19.5
+7. **2020** - Opponent-FT Attempted: 18.8
 8. **2010** - Opponent-FT Attempted: 18.1
 9. **2021** - Opponent-FT Attempted: 18
 10. **2013** - Opponent-FT Attempted: 17.8
@@ -615,8 +615,8 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 -------------------------------
 
 # Opponent-FT PCT #
-**Average: 0.70075**
-**Median: 0.6935**
+**Average: 0.70025**
+**Median: 0.693**
 1. **2023** - Opponent-FT PCT: 0.744
 2. **2021** - Opponent-FT PCT: 0.741
 3. **2011** - Opponent-FT PCT: 0.723
@@ -625,11 +625,11 @@ All rankings below aggregated via [Sports Reference](https://www.sports-referenc
 6. **2019** - Opponent-FT PCT: 0.705
 7. **2016** - Opponent-FT PCT: 0.703
 8. **2012** - Opponent-FT PCT: 0.694
-9. **2024** - Opponent-FT PCT: 0.693
-10. **2018** - Opponent-FT PCT: 0.692
-11. **2014** - Opponent-FT PCT: 0.69
-12. **2010** - Opponent-FT PCT: 0.688
-13. **2020** - Opponent-FT PCT: 0.688
+9. **2018** - Opponent-FT PCT: 0.692
+10. **2014** - Opponent-FT PCT: 0.69
+11. **2010** - Opponent-FT PCT: 0.688
+12. **2020** - Opponent-FT PCT: 0.688
+13. **2024** - Opponent-FT PCT: 0.685
 14. **2017** - Opponent-FT PCT: 0.676
 15. **2017** - Opponent-FT PCT: 0.676
 16. **2015** - Opponent-FT PCT: 0.659
